@@ -21,5 +21,6 @@
     "dev": "vite",
     "preview": "vite preview",
     "type-check": "vue-tsc --build --force"
-  }
+  },
+  "type": "module"
 }
