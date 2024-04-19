@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "tide-package-library-poc": "0.0.0",
+    "tide-package-library-poc": "0.2.0",
     "vue": "^3.4.21"
   },
   "devDependencies": {
